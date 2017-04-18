@@ -1,7 +1,7 @@
+![logo](https://raw.githubusercontent.com/rupa/isNaan/master/logo.png)
+
 isNaan
 ======
-
-![logo](https://raw.githubusercontent.com/rupa/isNaan/master/logo.png)
 
 Test if javascript things are delicious Indian bread.
 

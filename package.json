@@ -2,12 +2,22 @@
   "name": "isNaan",
   "version": "0.1.0",
   "description": "test if things are Naan (they aren't)",
+  "homepage": "http://butts.institute",
+  "author": "rupa",
+  "licenses": [
+    {
+      "type": "public domain",
+      "url": "http://github.com/rupa/isNaan/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rupa/isNaan.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "make test"
   },
-  "author": "rupa",
-  "license": "public domain",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
